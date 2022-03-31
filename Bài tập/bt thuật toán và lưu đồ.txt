@@ -1,0 +1,8 @@
+BEGIN
+   n là số nguyên từ 0-9 máy tính chọn nẫu nhiên
+   Nhập m là số nguyên từ 0 - 9
+   if n = m
+	print " bạn đúng "
+   else
+	print "bạn sai "
+END
