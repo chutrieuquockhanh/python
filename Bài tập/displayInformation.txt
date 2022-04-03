@@ -1,0 +1,1 @@
+print("Chu Triệu Quốc Khánh,", "02/09/2000,", "Hà Nội,", "muốn biết thêm nhiều kiến thức")
